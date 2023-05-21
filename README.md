@@ -1,5 +1,6 @@
 # TransparentBackgroundRenderer
 Tested with Unity 2023.2.0a15 URP for Android and iOS builds (on several devices I have at hand).
+Resulting RenderTexture works well with both UnityUI and UI Toolkit (there is no example for UI Toolkit in this project, but trust me it works!).
 
 This is an example project of a script which allows rendering of tranparent background textures with post processes into a RenderTexture
 
